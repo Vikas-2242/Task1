@@ -11,7 +11,7 @@ export const app = express();
 
 app.use(
   cors({
-    origin: "https://luxury-estate.vercel.app/",
+    origin: "https://luxury-estate.vercel.app",
     optionsSuccessStatus: 200,
     preflightContinue: false,
     methods: "GET,POST,OPTIONS",
