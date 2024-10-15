@@ -1,6 +1,6 @@
 import axios from "axios";
 import { getAccessToken } from "../utils/auth/getUserInfo";
-const BASE_URL = "http://localhost:4000/api/v1";
+const BASE_URL = "http://localhost:4000";
 
 export const unAuthAxios = axios.create({
   baseURL: BASE_URL,
