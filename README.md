@@ -24,8 +24,8 @@ The **Real Estate Property Management System** is designed to manage and display
 - **React.js:** Built using modern frameworks for seamless interaction with users.
 
 ## Screenshots
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
-![Screenshot 3](path/to/screenshot3.png)
-![Screenshot 4](path/to/screenshot4.png)
-![Screenshot 5](path/to/screenshot5.png)
+![Login Page](https://drive.google.com/file/d/1phddnUCY22hbZVRRWbSLlqdFOjRKs5lm/view?usp=drive_link)
+![Signup Page](https://drive.google.com/file/d/1F14enhtmZoBzUT0tXehO3vnQrf_ZKxdl/view?usp=drive_link)
+![Recommendations](https://drive.google.com/file/d/16HogkQwB2xy-ieu0687sQPZW1lJM-NnL/view?usp=drive_link)
+![Property Listing](https://drive.google.com/file/d/1vU0D5OqaaehOajHS9lZ8BmRn7X6L3ysA/view?usp=drive_link)
+![Profile Page](https://drive.google.com/file/d/1d1XCcyQGWsogLUe4Qq0yfYAK8VtpaIdE/view?usp=drive_link)
