@@ -41,16 +41,16 @@ The platform integrates advanced recommendation algorithms, offering personalize
 ## Screenshots
 
 ### Login Page
-![Login Page](https://drive.google.com/file/d/1phddnUCY22hbZVRRWbSLlqdFOjRKs5lm/view?usp=drive_link)
+![Login Page](https://drive.google.com/file/d/1phddnUCY22hbZVRRWbSLlqdFOjRKs5lm/view)
 
 ### Signup Page
-![Signup Page](https://drive.google.com/file/d/1F14enhtmZoBzUT0tXehO3vnQrf_ZKxdl/view?usp=drive_link)
+![Signup Page](https://drive.google.com/file/d/1F14enhtmZoBzUT0tXehO3vnQrf_ZKxdl/view)
 
 ### Recommendations
-![Recommendations](https://drive.google.com/file/d/16HogkQwB2xy-ieu0687sQPZW1lJM-NnL/view?usp=drive_link)
+![Recommendations](https://drive.google.com/file/d/16HogkQwB2xy-ieu0687sQPZW1lJM-NnL/view)
 
 ### Property Listing
-![Property Listing](https://drive.google.com/file/d/1vU0D5OqaaehOajHS9lZ8BmRn7X6L3ysA/view?usp=drive_link)
+![Property Listing](https://drive.google.com/file/d/1vU0D5OqaaehOajHS9lZ8BmRn7X6L3ysA/view)
 
 ### Profile Page
-![Profile Page](https://drive.google.com/file/d/1d1XCcyQGWsogLUe4Qq0yfYAK8VtpaIdE/view?usp=drive_link)
+![Profile Page](https://drive.google.com/file/d/1d1XCcyQGWsogLUe4Qq0yfYAK8VtpaIdE/view)
